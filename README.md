@@ -14,8 +14,13 @@ API 결과물은 공통이기 때문에 현재 경로에서 `API` 폴더를 통�
 <br>
 <br>
 
-## 2. 👇🏻 최종모델 다운로드 👇🏻
-- 파일명 : model.ckpt.19
+## 2. 👇🏻 데이터 / 최종모델 다운로드 👇🏻
+#### 1) 데이터
+- 파일명 : `klue-sts-v1.1_train.json` / `klue-sts-v1.1_dev.json`
+- 구글드라이브 경로 : https://drive.google.com/drive/folders/1Jd13dh2nkJNQfY6sdq7NJnYqaPAKqP0l?usp=sharing
+
+#### 2) 최종모델
+- 파일명 : `model.ckpt.19`
 - 구글드라이브 경로 : https://drive.google.com/drive/folders/1MuIe5FCM1dwFrQxXnQREl24K1ARp3hCl?usp=sharing
 <br>
 <br>
