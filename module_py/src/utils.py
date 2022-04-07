@@ -12,7 +12,7 @@ args = {
   "do_lower_case": False,
   "do_train": True,
   "max_seq_len": 128,
-  "num_train_epochs": 3,
+  "num_train_epochs": 20,
   "weight_decay": 0.0,   # default = 1e-2
   "gradient_accumulation_steps": 1,
   "betas": (0.9, 0.999), # default
