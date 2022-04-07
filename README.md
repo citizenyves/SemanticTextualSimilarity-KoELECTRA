@@ -8,6 +8,9 @@
 #### 2) module_py
 프로젝트 기간 이후, 개인적으로 프로젝트를 `모듈화(.py)`하여 발전시켜봤습니다.
 모듈화된 결과물 확인을 원하실 경우, `SemanticTextualSimilarity-KoELECTRA > module_py` 경로에서 확인 부탁드립니다.
+
+#### 3) API
+API 결과물은 공통이기 때문에 현재 경로에서 `API` 폴더를 통해 확인 부탁드립니다.
 <br>
 <br>
 
